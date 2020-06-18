@@ -1,5 +1,5 @@
 <template>
-  <div>lalalalal</div>
+  <router-link to="/fitness">新拟态健身移动端UI</router-link>
 </template>
 
 <script>

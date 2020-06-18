@@ -20,8 +20,8 @@ module.exports = {
       .set('assets', resolve('src/assets'))
       .set('components', resolve('src/components'))
       .set('pages', resolve('src/pages'))
-    // .set('utils', resolve('src/assets/utils'))
-    // .set('common', resolve('src/assets/common'))
-    // .set('router', resolve('src/assets/router'))
+      // .set('utils', resolve('src/assets/utils'))
+      // .set('common', resolve('src/assets/common'))
+      .set('router', resolve('src/assets/router'))
   }
 }
